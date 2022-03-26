@@ -32,6 +32,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "jimp": "^0.12.1",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
