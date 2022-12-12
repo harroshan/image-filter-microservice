@@ -30,7 +30,7 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jimp": "^0.12.1",
     "minimist": "^1.2.5"
   }
